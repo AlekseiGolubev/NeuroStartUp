@@ -1,6 +1,4 @@
-# NeuroStartUp
-
-![][Logo]
+# ![][Logo] NeuroStartUp
 
 [Logo]: https://netology-code.github.io/git-homeworks/introduction/assets/logo.png
 
